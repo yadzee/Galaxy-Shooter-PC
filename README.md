@@ -32,7 +32,7 @@ You can get access to Galaxy Shooter source code by using one of the following w
 Galaxy Shooter Mobile Source Code: [here](https://github.com/yadzee/Galaxy-Shooter-Mobile)   
 Galaxy Shooter PC Source Code: [here](https://github.com/yadzee/Galaxy-Shooter-PC)     
 
-Also you can the build version of the Galaxy Shooter(Android and PC) using the following ways:  
+Also you can try the build version of the Galaxy Shooter(Android and PC) using the following ways:  
 [Download from Itch.io](https://ianfirsov.itch.io/galaxy-shooter)
 
 # Screenshots
